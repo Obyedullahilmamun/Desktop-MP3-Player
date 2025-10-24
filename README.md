@@ -1,4 +1,4 @@
-Desktop MP3 Player
+# Desktop MP3 Player
 
 An MP3 player built with Player.js, featuring a custom design.
 
